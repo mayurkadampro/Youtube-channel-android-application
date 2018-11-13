@@ -1,6 +1,8 @@
 # Youtube-channel-android-application
 Youtube channel application still in progress 
 
+You can use this project file and make some changes and use for your youtube channel and still there are some bugs are remain you can by yourself else stay tunned with me follow the project i will make some changes and fix some bugs as soon as i get some free times
+
 # Screenshots
 
 | Splash Screen | Different login types 
