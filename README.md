@@ -15,10 +15,10 @@ You can use this project file and make some changes and use this android applica
 
 
 | Forgot Password | Home Screen | Custom Drawer
-|:-:|:-:|
+|:-:|:-:|:-:|
 | ![First](https://github.com/mayurkadampro/Youtube-channel-android-application/blob/master/Snapshots/forgot%20password.png) | ![Second](https://github.com/mayurkadampro/Youtube-channel-android-application/blob/master/Snapshots/home%20screen.png) | ![Third](https://github.com/mayurkadampro/Youtube-channel-android-application/blob/master/Snapshots/drawer.png)
 
-| Youtube Video Playlist | Youtube Video Player | Non Youtube Video Fetching from other source
+| Youtube Video Playlist | Youtube Video Player | Non Youtube Video 
 |:-:|:-:|:-:|
 | ![First](https://github.com/mayurkadampro/Youtube-channel-android-application/blob/master/Snapshots/youtube%20video%20playlist.png) | ![Second](https://github.com/mayurkadampro/Youtube-channel-android-application/blob/master/Snapshots/youtube%20video%20player.png) | ![third](https://github.com/mayurkadampro/Youtube-channel-android-application/blob/master/Snapshots/Non%20youtube%20video.png)
 
