@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@color/Fade"
+    android:padding="29dp">
+
+    <ImageView
+        android:src="@drawable/man"
+        android:layout_height="75dp"
+        android:layout_width="75dp" />
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Welcome"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="11dp"
+        android:textSize="15dp"
+        />
+
+
+
+</RelativeLayout>

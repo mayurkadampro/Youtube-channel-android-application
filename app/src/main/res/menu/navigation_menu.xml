@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/nav_home"
+        android:icon="@mipmap/ic_home_icon_silhouette"
+        android:title="Home" />
+
+    <item android:id="@+id/nav_yt"
+        android:icon="@mipmap/ic_youtube"
+        android:title="Youtube Videos" />
+
+    <item android:id="@+id/nav_nonyt"
+        android:icon="@mipmap/ic_play_button"
+        android:title="Non-Youtube Vidoes" />
+
+
+    <item android:title="Follow Us On">
+        <menu>
+
+    <item android:id="@+id/nav_facebook"
+        android:icon="@mipmap/ic_facebook_logo_button"
+        android:title="Facebook" />
+
+    <item android:id="@+id/nav_insta"
+        android:icon="@mipmap/ic_instagram_logo"
+        android:title="Instagram" />
+
+    <item android:id="@+id/nav_github"
+          android:icon="@mipmap/ic_github"
+           android:title="Github" />
+
+    <item android:id="@+id/nav_reddit"
+        android:icon="@mipmap/ic_reddit_social_logo_character"
+        android:title="Reddit" />
+
+    <item android:id="@+id/nav_twitter"
+        android:icon="@mipmap/ic_twitter_logo_button"
+        android:title="Twitter" />
+
+
+
+        </menu>
+    </item>
+
+</menu>

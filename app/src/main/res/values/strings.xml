@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mighty Ghost Hack</string>
+    <string name="textview">TextView</string>
+    <string name="facebook_app_id">619429398427880</string>
+    <string name="fb_login_protocol_scheme">fb619429398427880</string>
+    <string name="close">open</string>
+    <string name="open">close</string>
+
+
+</resources>

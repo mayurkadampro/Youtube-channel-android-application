@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "852735909398",
+    "firebase_url": "https://mightyghosthack.firebaseio.com",
+    "project_id": "mightyghosthack",
+    "storage_bucket": "mightyghosthack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852735909398:android:f2a7024771fb169d",
+        "android_client_info": {
+          "package_name": "com.example.mayur.firstinterface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852735909398-mht0rc7gidrhuhq6m45v6619h70l7chh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayur.firstinterface",
+            "certificate_hash": "b1d88c60952bcdbe5e83825242427ab95275f8f8"
+          }
+        },
+        {
+          "client_id": "852735909398-6mlprai55mdrrlu3vrcesicbop0j5u49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFoGVgy6obAkEoHZu_Hd3ITzAxBDaEWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852735909398-6mlprai55mdrrlu3vrcesicbop0j5u49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
