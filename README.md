@@ -3,6 +3,8 @@ Youtube channel application still in progress
 
 You can use this project file and make some changes and use this android application for your youtube channel and still there are some bugs are remain you can solve by yourself else stay tuned with me follow the project I will make some changes and fix some bugs as soon as I get some free times or you can contribute to this project files so it can complete
 
+download incomplete apk - https://bit.ly/2RWiVey
+
 # Screenshots
 
 | Splash Screen | Different login types | Facebook Login
