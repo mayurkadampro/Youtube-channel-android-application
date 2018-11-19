@@ -27,7 +27,7 @@ public class NonYtPlaylist extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.nonytplaylist,container,false);
         videoView = (VideoView)v.findViewById(R.id.videoView);
-        videoUri = Uri.parse("https://drive.google.com/open?id=1M7lu7wiMV2Jei5962kcVTGCH6mHuTSlT");
+        videoUri = Uri.parse("https://firebasestorage.googleapis.com/v0/b/mightyghosthack.appspot.com/o/wordlist%20generator%20python%20script.mp4?alt=media&token=401d5624-fa36-4454-9abd-83914cb5f88e");
         videoView.setVideoURI(videoUri);
         videoView.requestFocus();
         videoView.start();
